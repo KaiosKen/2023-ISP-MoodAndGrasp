@@ -2,7 +2,7 @@
 	
 #### 	[Digital Portfolio](https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/index.html)
 
-## Robel Abraham - QA
+## Robel Abraham - Development Engineer
 
 #### 	[Digital Portfolio](https://www.codermerlin.com/users/robel-abraham/Digital%20Portfolio/index.html)
 
@@ -17,14 +17,14 @@
 #### 	[Digital Portfolio](https://www.codermerlin.com/users/azmer-ali/Digital%20Portfolio/index.html)
 
 
-## Nahom Tadele - Release Engineer
-
-#### 	[Digital Portfolio](https://www.codermerlin.com/users/nahom-tadele/Digital%20Portfolio/index.html)
-
-
-## Gannon Murray - Project Manager
+## Gannon Murray - Release Engineer
 
 #### 	[Digital Portfolio](https://www.codermerlin.com/users/gannon-murray/Digital%20Portfolio/index.html)
+
+
+## Nahom Tadele - Project Manager
+
+#### 	[Digital Portfolio](https://www.codermerlin.com/users/nahom-tadele/Digital%20Portfolio/index.html)
 
 
 ## Zephan Murshed - Graphic Designer
